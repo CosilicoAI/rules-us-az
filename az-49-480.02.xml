@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/49-480.02" />
+          <FRBRuri value="/akn/us-az/act/49-480.02" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="49-480.02" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/49-480.02/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/49-480.02/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/49-480.02/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/49-480.02/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_49_480_02">
+        <num>49-480.02</num>
+        <heading>Appeals of permit actions</heading>
+        <subsection eId="sec_49_480_02__subsec_a">
+          <num>A.</num>
+          <content>
+            <p>Within thirty days after the control officer gives notice of approval, denial or revocation of a permit, the applicant or any person who submitted comments pursuant to section 49-480, may request an appeal as provided under section 49-482. The decision after that hearing constitutes the final permit action from which judicial review may be taken pursuant to title 12, chapter 7, article 6.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_49_480_02__subsec_b">
+          <num>B.</num>
+          <content>
+            <p>Any person who has an interest that is or may be adversely affected may commence a civil action in superior court against the control officer alleging that the control officer has failed to act in a timely manner consistent with the requirements of section 49-480. No action may be commenced before sixty days after the plaintiff has given notice to the control officer of the plaintiff's intent to file. The court has jurisdiction to require the control officer to act without additional delay.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

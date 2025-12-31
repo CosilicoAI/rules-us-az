@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/47-2725" />
+          <FRBRuri value="/akn/us-az/act/47-2725" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="47-2725" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/47-2725/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/47-2725/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/47-2725/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/47-2725/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_47_2725">
+        <num>47-2725</num>
+        <heading>Statute of limitations in contracts for sale</heading>
+        <subsection eId="sec_47_2725__subsec_a">
+          <num>A.</num>
+          <content>
+            <p>An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_47_2725__subsec_b">
+          <num>B.</num>
+          <content>
+            <p>A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_47_2725__subsec_c">
+          <num>C.</num>
+          <content>
+            <p>Where an action commenced within the time limited by subsection A is so terminated as to leave available a remedy by another action for the same breach such other action may be commenced after the expiration of the time limited and within six months after the termination of the first action unless the termination resulted from voluntary discontinuance or from dismissal for failure or neglect to prosecute.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_47_2725__subsec_d">
+          <num>D.</num>
+          <content>
+            <p>This section does not alter the law on tolling of the statute of limitations nor does it apply to causes of action which have accrued before January 1, 1968.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

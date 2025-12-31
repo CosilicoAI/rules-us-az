@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/40-493" />
+          <FRBRuri value="/akn/us-az/act/40-493" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="40-493" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/40-493/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/40-493/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/40-493/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/40-493/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_40_493">
+        <num>40-493</num>
+        <heading>Damages; costs; attorney fees</heading>
+        <content>
+          <p>In a civil action pursuant to section 40-492, the utility may recover as damages three times the amount of actual damages. The prevailing party shall recover reasonable attorney fees, costs and other expenses.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

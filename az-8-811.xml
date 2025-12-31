@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/8-811" />
+          <FRBRuri value="/akn/us-az/act/8-811" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="8-811" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/8-811/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/8-811/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/8-811/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/8-811/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_8_811">
+        <num>8-811</num>
+        <heading>Hearing process; definitions</heading>
+        <subsection eId="sec_8_811__subsec_a">
+          <num>A.</num>
+          <content>
+            <p>The department shall notify a person who is alleged to have abused or neglected a child that the department intends to substantiate the allegation in the central registry pursuant to section 8-804 and of that person's right:</p>
+          </content>
+          <paragraph eId="sec_8_811__subsec_a__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To receive a copy of the report containing the allegation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_a__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To a hearing before the entry into the central registry.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_b">
+          <num>B.</num>
+          <content>
+            <p>The department shall provide the notice prescribed in subsection A of this section by first class mail or by personal service no more than fourteen days after completion of the investigation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_c">
+          <num>C.</num>
+          <content>
+            <p>A request for a hearing on the proposed finding must be received by the department within twenty days after the mailing or personal service of the notice by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_d">
+          <num>D.</num>
+          <content>
+            <p>The department shall not disclose any information related to the investigation of the allegation except as provided in sections 8-456, 8-807, 8-807.01 and 13-3620.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_e">
+          <num>E.</num>
+          <content>
+            <p>If a request for a hearing is made pursuant to subsection C of this section, the department shall conduct a review before the hearing.  The department shall provide an opportunity for the accused person to provide written or verbal information to support the position that the department should not substantiate the allegation. If the department determines that there is no probable cause that the accused person engaged in the alleged conduct, the department shall amend the information or finding in the report and shall notify the person and a hearing shall not be held.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_f">
+          <num>F.</num>
+          <content>
+            <p>Notwithstanding section 41-1092.03, the notification prescribed in subsection A of this section shall also state that if the department does not amend the information or finding in the report as prescribed in subsection E of this section within sixty days after it receives the request for a hearing the person has a right to a hearing unless:</p>
+          </content>
+          <paragraph eId="sec_8_811__subsec_f__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person is a party in a pending civil, criminal or administrative proceeding in which the allegations of abuse or neglect are at issue.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_f__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person is a party in a pending juvenile proceeding in which the allegations of abuse or neglect are at issue.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_f__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A court or administrative law judge has made findings as to the alleged abuse or neglect.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_f__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A court has found that a child is dependent or has terminated a parent's rights based on an allegation of abuse or neglect.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_g">
+          <num>G.</num>
+          <content>
+            <p>If the court or administrative law judge in a pending proceeding described in subsection F, paragraph 1 or 2 of this section does not make a finding of abuse or neglect and the matter is no longer pending in that forum, the person has a right to a hearing pursuant to subsection F of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_h">
+          <num>H.</num>
+          <content>
+            <p>If the court or administrative law judge in a proceeding described in subsection F of this section has made a finding of abuse or neglect, the finding shall be entered into the central registry as a substantiated report.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_i">
+          <num>I.</num>
+          <content>
+            <p>If the department does not amend the information or finding in the report as prescribed in subsection E of this section, the department shall notify the office of administrative hearings of the request for a hearing no later than five days after completion of the review. The department shall forward all records, reports and other relevant information with the request for hearing within ten days. The department shall redact the identity of the reporting source before transmitting the information to the office of administrative hearings.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_j">
+          <num>J.</num>
+          <content>
+            <p>The office of administrative hearings shall hold a hearing pursuant to title 41, chapter 6, article 10, with the following exceptions:</p>
+          </content>
+          <paragraph eId="sec_8_811__subsec_j__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A child who is the victim of or a witness to abuse or neglect is not required to testify at the hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_j__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A child's hearsay statement is admissible if the time, content and circumstances of that statement are sufficiently indicative of its reliability.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_j__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The identity of the reporting source of the abuse or neglect shall not be disclosed without the permission of the reporting source.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_j__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The reporting source is not required to testify.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_j__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A written statement from the reporting source may be admitted if the time, content and circumstances of that statement are sufficiently indicative of its reliability.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_j__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If the person requesting the hearing fails to appear, the hearing shall be vacated and a substantiated finding of abuse or neglect shall be entered. On good cause shown, the hearing may be rescheduled if the request is made within fifteen calendar days after the date of the notice vacating the hearing for failure to appear.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_k">
+          <num>K.</num>
+          <content>
+            <p>On completion of the presentation of evidence, the administrative law judge shall determine if probable cause exists to sustain the department's finding that the parent, guardian, employee of a child welfare agency where the child was placed that was licensed by and contracted with the department at the time of the abuse or custodian abused the child or the parent, guardian or custodian neglected the child. If the administrative law judge determines that probable cause exists to sustain the department's finding of abuse or neglect, the sustained finding shall be entered into the central registry as a substantiated report. If the administrative law judge determines that probable cause does not exist to sustain the department's finding, the administrative law judge shall order the department to amend the information or finding in the report.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_l">
+          <num>L.</num>
+          <content>
+            <p>When the department is requested to verify pursuant to section 8-807, if the central registry contains a substantiated report about a specific person, the department shall determine if the report was taken after January 1, 1998. If the report was taken after January 1, 1998, the department shall notify the requestor of the substantiated finding. If the report was taken before January 1, 1998, the department shall notify the person of the person's right to request an administrative hearing. The department shall not send this notification if the person was a party in a civil, criminal or administrative proceeding in which the allegations of abuse or neglect were at issue. The provisions of this section shall apply to the person's appeal.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_m">
+          <num>M.</num>
+          <content>
+            <p>The department shall provide the parent, guardian or custodian who is the subject of the investigation and the person who reported the suspected child abuse or neglect if that person is the child's parent, guardian or custodian with a copy of the outcome of the investigation at one of the following times:</p>
+          </content>
+          <paragraph eId="sec_8_811__subsec_m__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the report is unsubstantiated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_m__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If probable cause exists that abuse or neglect has occurred but a specific person is not identified as having abused or neglected the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_m__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After the time to request a hearing has lapsed pursuant to subsection C of this section without the department receiving a request for a hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_m__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>After a final administrative decision has been made pursuant to section 41-1092.08.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="sec_8_811__subsec_n">
+          <num>N.</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <paragraph eId="sec_8_811__subsec_n__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>"Amend the finding" means to change the finding from substantiated to unsubstantiated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_8_811__subsec_n__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>"Amend the information" means to change information identifying the accused of having abused or neglected a child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

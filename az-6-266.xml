@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/6-266" />
+          <FRBRuri value="/akn/us-az/act/6-266" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="6-266" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/6-266/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/6-266/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/6-266/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/6-266/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_6_266">
+        <num>6-266</num>
+        <heading>Transitional provision</heading>
+        <subsection eId="sec_6_266__subsec_1">
+          <num>1.</num>
+          <content>
+            <p>A special deposit made under an account agreement executed on or after September 26, 2025; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_6_266__subsec_2">
+          <num>2.</num>
+          <content>
+            <p>A deposit made under an agreement executed before September 26, 2025, if:</p>
+          </content>
+          <paragraph eId="sec_6_266__subsec_2__subsec_a">
+            <num>a.</num>
+            <content>
+              <p>All parties entitled to amend the agreement agree to make the deposit a special deposit governed by this article; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="sec_6_266__subsec_2__subsec_b">
+            <num>b.</num>
+            <content>
+              <p>The special deposit referenced in the amended agreement satisfies section 6-255.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

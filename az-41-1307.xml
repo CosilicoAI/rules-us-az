@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/41-1307" />
+          <FRBRuri value="/akn/us-az/act/41-1307" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="41-1307" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/41-1307/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/41-1307/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/41-1307/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/41-1307/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_41_1307">
+        <num>41-1307</num>
+        <heading>Museum gift shop revolving fund; exemption</heading>
+        <subsection eId="sec_41_1307__subsec_a">
+          <num>A.</num>
+          <content>
+            <p>The museum gift shop revolving fund is established consisting of gift shop proceeds received from the sale of goods, gifts, nonfederal grants and donations. The director of the Arizona legislative council shall administer the fund. Monies in the fund are continuously appropriated.  The director shall use the monies in the fund to provide to the public goods for sale that are reflective of the themes of the state capitol museum and this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_41_1307__subsec_b">
+          <num>B.</num>
+          <content>
+            <p>Monies in the fund are exempt from the provisions of section 35-190 relating to lapsing of appropriations.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

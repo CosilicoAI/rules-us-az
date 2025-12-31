@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="arizona-revised-statutes">
+    <meta>
+      <identification source="#cosilico">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-az/act/28-5939" />
+          <FRBRuri value="/akn/us-az/act/28-5939" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#arizona-legislature" />
+          <FRBRcountry value="us-az" />
+          <FRBRnumber value="28-5939" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-az/act/28-5939/eng@2025-12-31" />
+          <FRBRuri value="/akn/us-az/act/28-5939/eng@2025-12-31" />
+          <FRBRdate date="2025-12-31" name="retrieval" />
+          <FRBRauthor href="#cosilico" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-az/act/28-5939/eng@2025-12-31/xml" />
+          <FRBRuri value="/akn/us-az/act/28-5939/eng@2025-12-31/xml" />
+          <FRBRdate date="2025-12-31" name="generation" />
+          <FRBRauthor href="#cosilico" />
+        </FRBRManifestation>
+      </identification>
+      <references>
+        <TLCOrganization eId="arizona-legislature" href="https://www.azleg.gov" showAs="Arizona State Legislature" />
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico AI" />
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_28_5939">
+        <num>28-5939</num>
+        <heading>Lien</heading>
+        <subsection eId="sec_28_5939__subsec_a">
+          <num>A.</num>
+          <content>
+            <p>If a tax, fee, interest or penalty that the director or registering officer is required to collect is not paid by a taxpayer when due, the unpaid amount is a lien from the date the amount became due on all property and rights to property, whether real or personal, belonging to the taxpayer or acquired by the taxpayer after the amount became due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_28_5939__subsec_b">
+          <num>B.</num>
+          <content>
+            <p>The director may accept voluntary liens on real or personal property pledged by a person as security for a tax that the director is required to collect and that is not paid by a taxpayer when due. A voluntary lien shall be perfected and treated in the same manner as any other lien under this article.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
